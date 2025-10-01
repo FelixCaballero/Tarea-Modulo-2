@@ -108,31 +108,6 @@ JFrame (BorderLayout)
 ![JTabbedPane con Resumen y Logs](resources/CONFIRMACION.png)
 
 
----
-
-## 🚀 Cómo Ejecutar
-
-### Requisitos
-- Java JDK 8 o superior
-- IDE compatible con Java Swing (IntelliJ IDEA recomendado)
-
-### Instrucciones
-
-1. **Clonar el repositorio**
-   ```bash
-   git clone https://github.com/tu-usuario/gestor-usuarios.git
-   cd gestor-usuarios
-   ```
-
-2. **Compilar**
-   ```bash
-   javac GestordeUsuarios.java DialogConfirmacion.java
-   ```
-
-3. **Ejecutar**
-   ```bash
-   java GestordeUsuarios
-   ```
 
 ---
 
@@ -196,32 +171,4 @@ gestor-usuarios/
 - **RA1**: Reconocer las características de lenguajes de programación orientados a objetos
 - **RA4**: Desarrollar interfaces gráficas de usuario interactivas
 
----
 
-## 👨‍💻 Autor
-
-**[Tu Nombre]**  
-Ciclo Formativo de Grado Superior - Desarrollo de Aplicaciones Multiplataforma  
-IES [Nombre del Instituto] - Curso 2024/2025
-
----
-
-## 📄 Licencia
-
-Este proyecto es parte de una práctica educativa y está disponible bajo la licencia MIT.
-
----
-
-## 🔗 Enlaces Útiles
-
-- [Documentación oficial Java Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
-- [GridBagLayout Tutorial](https://docs.oracle.com/javase/tutorial/uiswing/layout/gridbag.html)
-- [Java Swing Best Practices](https://www.oracle.com/technical-resources/articles/java/swing.html)
-
----
-
-<div align="center">
-
-**⭐ Si este proyecto te ha sido útil, no olvides darle una estrella ⭐**
-
-</div>
