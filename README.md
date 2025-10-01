@@ -99,16 +99,14 @@ JFrame (BorderLayout)
 ## 📸 Capturas de Pantalla
 
 ### Vista General
-![Vista principal del gestor](resources/VISTA GENERL.png)
+![Vista principal del gestor](resources/VISTA_GENERL.png)
 
 ### Ventana Redimensionada
-![Comportamiento responsive](screenshots/redimensionada.png)
+![Comportamiento responsive](resources/REDIMENSIONADA.png)
 
-### Panel de Previsualización - Pestañas
-![JTabbedPane con Resumen y Logs](screenshots/pestanas.png)
+### Panel de cONFIRMACIÓN - Pestañas
+![JTabbedPane con Resumen y Logs](resources/CONFIRMACION.png)
 
-### Diálogo Modal de Confirmación
-![DialogConfirmacion](screenshots/dialogo_modal.png)
 
 ---
 
