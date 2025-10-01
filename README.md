@@ -99,7 +99,7 @@ JFrame (BorderLayout)
 ## 📸 Capturas de Pantalla
 
 ### Vista General
-![Vista principal del gestor](resources/VISTA_GENERL.png)
+![Vista principal del gestor](resources/VISTA_GENERAL.png)
 
 ### Ventana Redimensionada
 ![Comportamiento responsive](resources/REDIMENSIONADA.png)
